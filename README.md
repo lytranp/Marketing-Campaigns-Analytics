@@ -4,7 +4,7 @@
 
 2. Approaches
 
-  a. Clean data:
+    a. Clean data:
   
   - Mapping marketing channels to numeric
   
