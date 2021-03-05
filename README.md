@@ -8,7 +8,7 @@
   
   - Mapping marketing channels to numeric
   
-  - - Convert date_subscribed from string type to time 
+  - Convert date_subscribed from string type to time 
 
   b. Check how many users are seeing ads by date_served
   
